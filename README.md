@@ -1,1 +1,2 @@
-# praktikum-pbo-3
+# Nama : Putra Bagaspati Rohadi
+# NIM : 123180140
